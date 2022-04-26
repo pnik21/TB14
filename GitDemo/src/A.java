@@ -9,6 +9,11 @@ public class A
 		System.out.println("m1 go git");
 	}
 	
+	public void m2()
+	{
+		System.out.println("m2 go git");
+	}
+	
 	public static void main(String[] args) 
 	
 	{
