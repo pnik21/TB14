@@ -14,6 +14,11 @@ public class A
 		System.out.println("m2 go git");
 	}
 	
+	public void m3()
+	{
+		System.out.println("m2 go git");
+	}
+	
 	public static void main(String[] args) 
 	
 	{
